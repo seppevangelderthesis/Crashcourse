@@ -1,10 +1,6 @@
 # Crashcourse
 
-This is my first change
+This is my first change.
 
-This is my second change
-
-balbal
-
-
+This is my second change.
 
